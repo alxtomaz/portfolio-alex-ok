@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    
+}
+
+.navbar li {
+    margin: 10px;
+}
+
+.navbar a {
+    /* colocando essa !important a preferencia e essa independente de qualquer coisa */
+    color: aliceblue !important;
+    text-decoration: none;
+}
