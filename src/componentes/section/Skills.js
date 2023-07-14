@@ -8,7 +8,7 @@ import typescript from '../../image/skills/type.svg'
 
 function Skills () {
     return (
-        <div className = {styles.skills}>
+        <div id="Skills" className = {styles.skills}>
             <h1>Habilidades</h1>
             <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
             <div>
