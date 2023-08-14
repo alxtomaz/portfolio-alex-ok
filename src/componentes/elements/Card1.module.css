@@ -28,3 +28,9 @@
     margin: 10px;
     margin-left: 0px;
 }
+
+.card1 img {
+    width: 550px;
+    height: 300px;
+    border-radius: 15px;
+}
