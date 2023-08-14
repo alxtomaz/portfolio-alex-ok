@@ -8,7 +8,7 @@ function Presentation () {
     const toRotate = ['Alex Tomaz', 'Desenvolvedor Front End', 'Product Manager'];
     const [loop, setLoop] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const period = 200;
+    const period = 100;
     const [delta, setDelta] = useState(100);    
 
     // estrutura para clean up function
